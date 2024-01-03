@@ -1,4 +1,4 @@
-#"The Twelve-Factor App" es un conjunto de principios y prácticas que proporcionan pautas para construir aplicaciones modernas, especialmente aquellas que se ejecutan en entornos de nube. Estos principios fueron presentados por Adam Wiggins y Heroku en 2011 y han sido ampliamente adoptados como un marco de referencia para el desarrollo de aplicaciones en la nube. La idea detrás de los "Doce Factores" es ofrecer un enfoque coherente y eficiente para el diseño, desarrollo y operación de aplicaciones, maximizando la portabilidad y escalabilidad.
+"The Twelve-Factor App" es un conjunto de principios y prácticas que proporcionan pautas para construir aplicaciones modernas, especialmente aquellas que se ejecutan en entornos de nube. Estos principios fueron presentados por Adam Wiggins y Heroku en 2011 y han sido ampliamente adoptados como un marco de referencia para el desarrollo de aplicaciones en la nube. La idea detrás de los "Doce Factores" es ofrecer un enfoque coherente y eficiente para el diseño, desarrollo y operación de aplicaciones, maximizando la portabilidad y escalabilidad.
 
 A continuación, se describen brevemente cada uno de los doce factores:
 
